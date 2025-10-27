@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou KatKotKatze
+# 👋 Olá, eu sou KatKotKatze ou só Kat
 
 # 🎓 Estudante de **Ciência da Computação**
 
