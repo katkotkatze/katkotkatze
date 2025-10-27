@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou KatKotKatze ou só Kat
-
-# 🎓 Estudante de **Ciência da Computação**
+### 🎓 Estudante de **Ciência da Computação**
 
 ---
 
@@ -19,7 +18,7 @@ Gosto de estudar idiomas e de programar
 
 ## 🚀 Minhas estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KatKotKatze&show_icons=true&theme=tokyonight&hide_border=true)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KatKotKatze&show_icons=true&theme=tokyonight&hide_border=true)  ![cat meme](https://media.tenor.com/m11vauEEbcUAAAAM/meow-neko-arc.gif)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KatKotKatze&layout=compact&theme=tokyonight&hide_border=true)  
 
