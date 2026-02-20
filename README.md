@@ -17,12 +17,6 @@ Gosto de estudar idiomas e de programar.
 
 ---
 
-## 🚀 Minhas estatísticas do GitHub
-
-![snake gif](https://raw.githubusercontent.com/katkotkatze/katkotkatze/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katkotkatze)
