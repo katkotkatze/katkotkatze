@@ -19,9 +19,7 @@ Gosto de estudar idiomas e de programar.
 
 ## 🚀 Minhas estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=katkotkatze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=katkotkatze&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![snake gif](https://raw.githubusercontent.com/katkotkatze/katkotkatze/output/github-contribution-grid-snake.svg)
 
 ---
 
